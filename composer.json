@@ -1,0 +1,7 @@
+{
+    "require": {
+        "africastalking/africastalking": "^3.0",
+        "phpmailer/phpmailer": "^7.1",
+        "dompdf/dompdf": "^3.1"
+    }
+}

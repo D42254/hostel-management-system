@@ -1,0 +1,18 @@
+/* ===== Footer ===== */
+.site-footer {
+  background: #1f2937;
+  color: #d1d5db;
+}
+.site-footer h6 { color: #ffffff; }
+.footer-link { color: #9ca3af; text-decoration: none; }
+.footer-link:hover { color: #ffffff; text-decoration: underline; }
+.site-footer hr { border-color: rgba(255,255,255,.1); }
+
+/* ===== Toasts ===== */
+.toast { border-radius: 10px; }
+
+/* ===== Form polish ===== */
+.form-control.is-invalid,
+.form-select.is-invalid {
+  background-image: none; /* remove Bootstrap's icon; we use our own feedback text */
+}

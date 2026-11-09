@@ -1,0 +1,8 @@
+[2026-10-23T13:51:04+02:00] TO: manager@hostel.local | SUBJ: Reset your Hostel manager password
+Hi Hostel Manager,
+
+Reset link (valid 1h):
+
+http://jazz-tradition-jingle.ngrok-free.dev/hostel/manager/reset.php?token=6c6fe549d52ef29d19806464842d64ee8263c47004bdbbd7af45c948d3cafe99
+
+----------------------------------------------------------------------
